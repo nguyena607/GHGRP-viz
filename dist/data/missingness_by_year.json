@@ -1,0 +1,93 @@
+[
+  {
+    "year": 2011,
+    "missing": 1830,
+    "reported": 6907,
+    "total": 8737,
+    "missing_rate": 0.2095
+  },
+  {
+    "year": 2012,
+    "missing": 1635,
+    "reported": 7102,
+    "total": 8737,
+    "missing_rate": 0.1871
+  },
+  {
+    "year": 2013,
+    "missing": 1546,
+    "reported": 7191,
+    "total": 8737,
+    "missing_rate": 0.1769
+  },
+  {
+    "year": 2014,
+    "missing": 1388,
+    "reported": 7349,
+    "total": 8737,
+    "missing_rate": 0.1589
+  },
+  {
+    "year": 2015,
+    "missing": 1495,
+    "reported": 7242,
+    "total": 8737,
+    "missing_rate": 0.1711
+  },
+  {
+    "year": 2016,
+    "missing": 2164,
+    "reported": 6573,
+    "total": 8737,
+    "missing_rate": 0.2477
+  },
+  {
+    "year": 2017,
+    "missing": 2249,
+    "reported": 6488,
+    "total": 8737,
+    "missing_rate": 0.2574
+  },
+  {
+    "year": 2018,
+    "missing": 2156,
+    "reported": 6581,
+    "total": 8737,
+    "missing_rate": 0.2468
+  },
+  {
+    "year": 2019,
+    "missing": 2157,
+    "reported": 6580,
+    "total": 8737,
+    "missing_rate": 0.2469
+  },
+  {
+    "year": 2020,
+    "missing": 2181,
+    "reported": 6556,
+    "total": 8737,
+    "missing_rate": 0.2496
+  },
+  {
+    "year": 2021,
+    "missing": 2208,
+    "reported": 6529,
+    "total": 8737,
+    "missing_rate": 0.2527
+  },
+  {
+    "year": 2022,
+    "missing": 2223,
+    "reported": 6514,
+    "total": 8737,
+    "missing_rate": 0.2544
+  },
+  {
+    "year": 2023,
+    "missing": 2267,
+    "reported": 6470,
+    "total": 8737,
+    "missing_rate": 0.2595
+  }
+]

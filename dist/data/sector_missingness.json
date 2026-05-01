@@ -1,0 +1,466 @@
+[
+  {
+    "sector": "Oil & Gas",
+    "n_facilities": 2101,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.4365
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.3789
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.3408
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.2661
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.2475
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.4745
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.476
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.4522
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.4284
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.4198
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.4198
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.4298
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.4369
+      }
+    ]
+  },
+  {
+    "sector": "Power Plants",
+    "n_facilities": 1749,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.1023
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.0921
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.1092
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.1258
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.163
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.207
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.2258
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.2178
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.2298
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.2481
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.2476
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.2493
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.2573
+      }
+    ]
+  },
+  {
+    "sector": "Other",
+    "n_facilities": 1601,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.2105
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.1899
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.178
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.1624
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.168
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.2092
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.2311
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.2224
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.2261
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.2286
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.2405
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.2274
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.2299
+      }
+    ]
+  },
+  {
+    "sector": "Waste",
+    "n_facilities": 1433,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.0684
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.0586
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.0677
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.0698
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.1221
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.1417
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.1458
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.1458
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.1535
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.1542
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.1563
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.1598
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.1654
+      }
+    ]
+  },
+  {
+    "sector": "Chemicals",
+    "n_facilities": 534,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.1704
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.1517
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.1348
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.1423
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.1404
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.161
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.1536
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.1442
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.1554
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.1536
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.1367
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.1367
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.1348
+      }
+    ]
+  },
+  {
+    "sector": "Minerals",
+    "n_facilities": 436,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.1307
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.1307
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.1101
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.1009
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.0963
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.1101
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.1124
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.094
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.1009
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.1078
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.1193
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.1216
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.1216
+      }
+    ]
+  },
+  {
+    "sector": "Metals",
+    "n_facilities": 363,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.1791
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.1736
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.1708
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.1625
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.1708
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.1653
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.1818
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.1598
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.1736
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.1846
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.1763
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.1846
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.1873
+      }
+    ]
+  },
+  {
+    "sector": "Pulp & Paper",
+    "n_facilities": 246,
+    "years": [
+      {
+        "year": 2011,
+        "missing_rate": 0.0935
+      },
+      {
+        "year": 2012,
+        "missing_rate": 0.1016
+      },
+      {
+        "year": 2013,
+        "missing_rate": 0.0894
+      },
+      {
+        "year": 2014,
+        "missing_rate": 0.0854
+      },
+      {
+        "year": 2015,
+        "missing_rate": 0.0894
+      },
+      {
+        "year": 2016,
+        "missing_rate": 0.1057
+      },
+      {
+        "year": 2017,
+        "missing_rate": 0.1179
+      },
+      {
+        "year": 2018,
+        "missing_rate": 0.126
+      },
+      {
+        "year": 2019,
+        "missing_rate": 0.1138
+      },
+      {
+        "year": 2020,
+        "missing_rate": 0.1138
+      },
+      {
+        "year": 2021,
+        "missing_rate": 0.1423
+      },
+      {
+        "year": 2022,
+        "missing_rate": 0.1504
+      },
+      {
+        "year": 2023,
+        "missing_rate": 0.1545
+      }
+    ]
+  }
+]
